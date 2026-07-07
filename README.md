@@ -14,14 +14,12 @@ The objective is to improve agricultural productivity, reduce water wastage, and
 
 ## 👨‍💻 Group Members
 
-| Name | Role |
+| Name | Entry Number |
 |------|------|
-| Archita Aggarwal | Development & Documentation |
-| Komal | IoT Integration |
-| Member 3 | Frontend |
-| Member 4 | Testing |
+| Archita | 2024mcb1288 |
+| Komal Goyal | 2024mcb1298 |
+| Aarushi Goel | 2024mcb1283 |
 
-> *(Replace names/roles as required.)*
 
 ---
 
@@ -29,9 +27,9 @@ The objective is to improve agricultural productivity, reduce water wastage, and
 
 ### Hardware Setup
 
-![Hardware Setup](D:/archita/CODES/Crop-Suggestion-System/images/IMG-20251127-WA0014.jpg)
-(D:/archita/CODES/Crop-Suggestion-System/images/IMG-20251127-WA0008.jpg)
-(D:/archita/CODES/Crop-Suggestion-System/images/IMG-20251127-WA0009.jpg)
+![Hardware Setup](images/IMG-20251127-WA0014.jpg)
+(images/IMG-20251127-WA0008.jpg)
+(images/IMG-20251127-WA0009.jpg)
 
 
 

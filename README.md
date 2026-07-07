@@ -29,7 +29,6 @@ The objective is to improve agricultural productivity, reduce water wastage, and
   <img src="images/IMG-20251127-WA0008.jpg" width="30%">
   <img src="images/IMG-20251127-WA0009.jpg" width="30%">
 </p>
----
 
 ## 🚀 Features
 

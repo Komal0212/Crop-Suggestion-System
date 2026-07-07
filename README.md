@@ -1,92 +1,124 @@
-# Crop Suggestion System
+# 🌱 Crop Suggestion System
 
-## Overview
-This project implements an **IoT-enabled real-time crop suggestion and soil monitoring system** designed to assist farmers in making data-driven agricultural decisions. The system collects live environmental data from field-deployed sensors and analyzes soil and weather conditions to recommend suitable crops and irrigation actions.
-
-By combining low-cost hardware with a web-based dashboard, the project aims to improve agricultural productivity, optimize resource usage, and reduce reliance on guesswork.
+An **IoT-based Smart Crop Suggestion and Soil Monitoring System** that collects real-time environmental data from sensors and assists farmers in selecting suitable crops while monitoring field conditions efficiently.
 
 ---
 
-## Motivation
-Agricultural decisions in India are often based on traditional knowledge rather than real-time data, leading to inefficient irrigation, poor crop selection, and reduced yields. With the availability of affordable sensors and microcontrollers, it is now possible to build intelligent systems that provide actionable insights to farmers based on actual field conditions.
+## 📌 Project Overview
+
+This project integrates **IoT sensors, cloud storage, and a web dashboard** to monitor soil and environmental parameters in real time. Based on the collected data, the system recommends suitable crops and helps farmers make informed irrigation decisions.
+
+The objective is to improve agricultural productivity, reduce water wastage, and promote data-driven farming practices.
 
 ---
 
-## Key Features
-- **Real-Time Data Collection**
-  - Soil moisture
-  - Temperature
-  - Humidity
-  - Rainfall
-  - Light intensity
+## 👨‍💻 Group Members
 
-- **Crop Suggestion Engine**
-  - Recommends suitable crops based on soil and weather conditions
-  - Uses rule-based decision logic
+| Name | Role |
+|------|------|
+| Archita Aggarwal | Development & Documentation |
+| Komal | IoT Integration |
+| Member 3 | Frontend |
+| Member 4 | Testing |
 
-- **Web Dashboard**
-  - Displays live sensor readings
-  - Interactive graphs for soil moisture trends and soil classification
-
-- **Weather Integration**
-  - Fetches short-term forecasts using OpenWeatherMap API
-
-- **Alerts & Monitoring**
-  - Early warnings for low soil moisture or excess rainfall
-  - Remote field monitoring
+> *(Replace names/roles as required.)*
 
 ---
 
-## System Architecture
-1. Sensors collect real-time soil and atmospheric data.
-2. Arduino processes sensor readings and transmits data to the cloud.
-3. Data is stored in a Firebase real-time database.
-4. A web application fetches and visualizes data.
-5. Decision logic analyzes parameters and suggests crops and irrigation actions.
+## 📷 Project Images
+
+### Hardware Setup
+
+![Hardware Setup](images/IMG-20251127-WA0014)
+(images/IMG-20251127-WA0008)
+(images/IMG-20251127-WA0009)
+
 
 ---
 
-## Hardware Components
-- Arduino UNO R3  
-- Soil Moisture Sensor  
-- DHT11 (Temperature & Humidity)  
-- Rainfall Sensor  
-- Light Dependent Resistor (LDR)  
-- Relay Module and Mini Water Pump  
-- Breadboard, Resistors, and Jumper Wires  
+## 🚀 Features
+
+- 📡 Real-time sensor data collection
+- 🌡 Temperature and humidity monitoring
+- 💧 Soil moisture monitoring
+- 🌧 Rainfall detection
+- ☀ Light intensity measurement
+- 🌱 Crop recommendation system
+- 📊 Interactive web dashboard
+- ☁ Firebase cloud integration
+- 🌦 Weather forecast using OpenWeatherMap API
+- 🚨 Irrigation alerts and monitoring
 
 ---
 
-## Technologies Used
-- **Hardware:** Arduino UNO, IoT Sensors
-- **Backend / Cloud:** Firebase Realtime Database
-- **Frontend:** HTML, CSS, JavaScript
-- **APIs:** OpenWeatherMap
-- **Development Tools:** Arduino IDE
+## ⚙ System Architecture
+
+1. Sensors collect real-time environmental data.
+2. Arduino processes the sensor readings.
+3. Data is uploaded to Firebase Realtime Database.
+4. Web dashboard fetches live data.
+5. Rule-based logic suggests suitable crops and irrigation actions.
 
 ---
 
-## Implementation Steps
-- Sensor integration and testing using Arduino IDE
-- Cloud data transmission via Firebase
-- Web dashboard development for data visualization
-- Rule-based crop suggestion logic
-- Testing and calibration under different conditions
+## 🛠 Hardware Components
+
+- Arduino UNO R3
+- Soil Moisture Sensor
+- DHT11 Sensor
+- Rain Sensor
+- LDR Sensor
+- Relay Module
+- Mini Water Pump
+- Breadboard
+- Jumper Wires
 
 ---
 
+## 💻 Technologies Used
 
-## Learning Outcomes
-- Practical experience with IoT-based systems
-- Understanding real-time data collection and visualization
-- Integration of hardware with cloud platforms
-- Exposure to rule-based decision systems for agriculture
+| Category | Technologies |
+|----------|--------------|
+| Hardware | Arduino UNO, IoT Sensors |
+| Backend | Firebase Realtime Database |
+| Frontend | HTML, CSS, JavaScript |
+| API | OpenWeatherMap API |
+| IDE | Arduino IDE |
 
 ---
 
+## 📖 Working
 
-## Future Enhancements
-- Machine learning–based crop prediction
-- Mobile application integration
-- SMS or app-based alerts
-- Support for multiple farms and regions
+- Collects live sensor values.
+- Stores data on Firebase.
+- Displays readings on the web dashboard.
+- Analyzes soil and weather conditions.
+- Recommends suitable crops.
+- Generates irrigation-related alerts.
+
+---
+
+## 📚 Learning Outcomes
+
+- IoT system development
+- Sensor integration
+- Cloud database connectivity
+- Web dashboard development
+- Real-time monitoring
+- Rule-based crop recommendation
+
+---
+
+## 🔮 Future Scope
+
+- Machine Learning based crop prediction
+- Android application
+- SMS notification system
+- Multi-farm monitoring
+- AI-powered recommendation engine
+
+---
+
+## ⭐ Acknowledgement
+
+This project was developed as a group project for academic purposes to explore the practical implementation of IoT in smart agriculture.

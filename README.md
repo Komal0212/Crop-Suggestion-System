@@ -29,9 +29,10 @@ The objective is to improve agricultural productivity, reduce water wastage, and
 
 ### Hardware Setup
 
-![Hardware Setup](images/IMG-20251127-WA0014)
-(images/IMG-20251127-WA0008)
-(images/IMG-20251127-WA0009)
+![Hardware Setup](D:/archita/CODES/Crop-Suggestion-System/images/IMG-20251127-WA0014.jpg)
+(D:/archita/CODES/Crop-Suggestion-System/images/IMG-20251127-WA0008.jpg)
+(D:/archita/CODES/Crop-Suggestion-System/images/IMG-20251127-WA0009.jpg)
+
 
 
 ---
